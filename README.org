@@ -1,0 +1,9 @@
+* hyperlattices
+
+Generalized Lattice data-types for Common Lisp
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/thephoeron/hyperlattices.git |
+| commit  | e08614b                                             |
+| systems | hyperlattices                                       |
+|---------+-----------------------------------------------------|
